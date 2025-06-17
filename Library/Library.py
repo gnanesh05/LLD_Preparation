@@ -8,4 +8,8 @@ class Library:
 
     def add_book(self, book:Book):
         self.books.append(book)
+    
+    def print_books(self):
+        for book in self.books:
+            print(f"book title -{book.name} genre - {book.type} written by {book.author}")
 
