@@ -1,0 +1,34 @@
+    EASY
+| Problem                       | Key Concepts                   |
+| ----------------------------- | ------------------------------ |
+| ✅ Vending Machine             | State Pattern, Encapsulation   |
+| ✅ Book Library                | Abstract Classes, Aggregation  |
+| ✅ Parking Lot                 | OOP, State/Strategy Pattern    |
+| ✅ Digital Clock / Alarm Clock | Composition, State             |
+| ✅ Income Tax Calculator       | Strategy Pattern, Polymorphism |
+| ✅ Notification System         | Factory + OCP                  |
+
+    MEDIUM
+
+| Problem                       | Key Concepts                       |
+| ----------------------------- | ---------------------------------- |
+| ✅ Ride Sharing (Uber-like)    | Object Modeling, Strategy, State   |
+| ✅ Restaurant/Food Ordering    | Decorator, Aggregation, Validation |
+| ✅ Rate Limiter                | Token Bucket/Leaky Bucket, Caching |
+| ✅ Elevator System             | Concurrency, State, Command        |
+| ✅ Splitwise                   | Object modeling, Graphs (optional) |
+| ✅ Tic Tac Toe / Chess / Snake | Game engines, Rules, Strategy      |
+| ✅ ATM System                  | Factory, Chain of Responsibility   |
+
+
+    HARD
+| Problem                       | Key Concepts                   |
+| ----------------------------- | ------------------------------ |
+| ✅ Logging/Metrics System      | Singleton, Pub-Sub, Observer   |
+| ✅ Airline Booking System      | Conflict Resolution, Locks     |
+| ✅ Distributed Cache           | Singleton, TTL, Consistency    |
+| ✅ E-commerce Cart + Inventory | Real-time Sync, State          |
+| ✅ Hotel Booking System        | Calendar Overlap, Strategy     |
+| ✅ Payment System              | Retry, Idempotency, State      |
+| ✅ SaaS Billing System         | Plugability, OCP, Abstractions |
+
