@@ -77,6 +77,7 @@ class HasMoneyState(State):
     def cancel_transaction(self):
         print(f"Transaction called returning {self.vending_machine.current_balance}")
         self.vending_machine.set_state(self.vending_machine.return_change_state)
+        self.vending_machine.current_state.return_change()
 
     def return_change(self):
         print("cancel the transaction to get refund")

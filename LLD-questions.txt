@@ -19,6 +19,7 @@
 | ✅ Splitwise                   | Object modeling, Graphs (optional) |
 | ✅ Tic Tac Toe / Chess / Snake | Game engines, Rules, Strategy      |
 | ✅ ATM System                  | Factory, Chain of Responsibility   |
+| ✅ Order and inventory managments   |   |
 
 
     HARD
